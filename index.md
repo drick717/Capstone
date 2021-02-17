@@ -9,7 +9,8 @@ in the original program, along with my planned enhancements.  I then updated the
 a direct rewrite into C++ maintaining as much of the original structure as possible, an update to that file to address
 the addition of functions and data structures to make it more modular, and finally and additional program that uses 
 embedded SQL through SQLite to build a menu that could be accessed after a sucessful login attempt. 
-Links to all files can be found below. 
+
+Links to all files can be found below: 
 
 [Original Java File](https://github.com/drick717/drick717.github.io/blob/gh-pages/FinalProject_CS145.zip)
 
