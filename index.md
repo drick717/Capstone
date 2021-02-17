@@ -1,6 +1,6 @@
 ## Welcome to my Project Repository
 
-Here you will find links to all of the files for projects that I've completed or that I am currently working on. 
+**Here you will find links to all of the files for projects that I've completed or that I am currently working on.** 
 
   My latest project has been an attempt to take my very first programming project for a class and update it with 
 some of the skills I've learned over the last few years.  It's a very simple zoo login program that was originally 
