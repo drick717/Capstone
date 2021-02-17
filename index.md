@@ -2,7 +2,7 @@
 
 **Here you will find links to all of the files for projects that I've completed or that I am currently working on.** 
 
-  My latest project has been an attempt to take my very first programming project for a class and update it with 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspMy latest project has been an attempt to take my very first programming project for a class and update it with 
 some of the skills I've learned over the last few years.  It's a very simple zoo login program that was originally 
 written in Java that I have modified.  I've included an audio screencast code review that discusses all of the flaws
 in the original program, along with my planned enhancements.  I then updated the program through a series of uploads: 
