@@ -14,6 +14,10 @@ Links to all files can be found below:
 
 [Original Java File](https://github.com/drick717/drick717.github.io/blob/gh-pages/FinalProject_CS145.zip)
 
+[Screencast Code Review of Jave File](https://github.com/drick717/drick717.github.io/blob/gh-pages/code%20review.mp4)
+
 [C++ Conversion](https://github.com/drick717/drick717.github.io/blob/gh-pages/FinalProject.zip)
 
 [Enhanced C++ file](https://github.com/drick717/drick717.github.io/blob/gh-pages/FinalProject2.zip)
+
+[Zoo Menu with SQL](https://github.com/drick717/drick717.github.io/blob/gh-pages/Zoo%20SQL%20Menu.zip)
