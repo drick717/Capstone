@@ -21,3 +21,8 @@ Links to all files can be found below:
 [Enhanced C++ File](https://github.com/drick717/drick717.github.io/blob/gh-pages/FinalProjectV2.zip)
 
 [Zoo Menu with SQL](https://github.com/drick717/drick717.github.io/blob/gh-pages/Zoo%20SQL%20Menu.zip)
+
+
+Newest Project:
+
+[Work-in-progress for a Farkle style dice game]()
