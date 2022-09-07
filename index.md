@@ -2,8 +2,8 @@
 
 **Here you will find links to files for all of my projects, both completed and current.** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My latest project has been an attempt to take my very first programming project for a class and update it with 
-some of the skills I've learned over the last few years.  It's a very simple zoo login program that was originally 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My biggest project has been an attempt to take my very first programming project for a class and update it with 
+some of the skills I've learned over the last few years. This was my final project for my degree. It's a very simple zoo login program that was originally 
 written in Java that I have modified.  I've included an audio screencast code review that discusses all of the flaws
 in the original program, along with my planned enhancements.  I updated the original program through a series of uploads: 
 a direct rewrite into C++ maintaining as much of the original structure as possible, an update to the C++ rewrite to address
@@ -24,5 +24,9 @@ Links to all files can be found below:
 
 
 Newest Project:
+
+My latest project is also an old class project that I did.  It involved creating a Farkle Style dice game that wqas played through the console.  I'm currently working 
+on this rewrite of my original program with plans to learn how to add a user interface eventually since currently everything is displayed to the console. 
+
 
 [Work-in-progress for a Farkle style dice game](https://github.com/drick717/drick717.github.io/blob/drick717-Farkle/Main%20(3).java)
